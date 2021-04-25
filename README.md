@@ -2,6 +2,7 @@
 
 ![Automated tests](https://github.com/WesleyKlop/vote-system/workflows/Automated%20tests/badge.svg?event=push)
 ![Deliver](https://github.com/WesleyKlop/vote-system/workflows/Deliver/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWesleyKlop%2Fvote-system.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWesleyKlop%2Fvote-system?ref=badge_shield)
 
 ![Question example](.github/screenshots/banner.png)
 
@@ -62,3 +63,6 @@ If you discover a security vulnerability within Vote system, please send an e-ma
 ## License
 
 The Vote system is open-sourced software licensed under the [GPLv3](https://opensource.org/licenses/GPL-3.0).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWesleyKlop%2Fvote-system.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWesleyKlop%2Fvote-system?ref=badge_large)
